@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-tq2lsp/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-tq2lsp/static/js/main.18b66ebe.chunk.js",
-    "main.js.map": "https://.github.io/csb-tq2lsp/static/js/main.18b66ebe.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-tq2lsp/static/js/runtime-main.f64c36d4.js",
-    "runtime-main.js.map": "https://.github.io/csb-tq2lsp/static/js/runtime-main.f64c36d4.js.map",
-    "static/js/2.ca3c7d5e.chunk.js": "https://.github.io/csb-tq2lsp/static/js/2.ca3c7d5e.chunk.js",
-    "static/js/2.ca3c7d5e.chunk.js.map": "https://.github.io/csb-tq2lsp/static/js/2.ca3c7d5e.chunk.js.map",
-    "index.html": "https://.github.io/csb-tq2lsp/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-tq2lsp/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.ca3c7d5e.chunk.js.LICENSE.txt": "https://.github.io/csb-tq2lsp/static/js/2.ca3c7d5e.chunk.js.LICENSE.txt",
-    "static/media/Fotolia_144834045_Subscription_Monthly_M.5e94dc09.jpg": "https://.github.io/csb-tq2lsp/static/media/Fotolia_144834045_Subscription_Monthly_M.5e94dc09.jpg"
+    "main.css": "https://john3195.github.io/csb-tq2lsp/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://john3195.github.io/csb-tq2lsp/static/js/main.3f8b8908.chunk.js",
+    "main.js.map": "https://john3195.github.io/csb-tq2lsp/static/js/main.3f8b8908.chunk.js.map",
+    "runtime-main.js": "https://john3195.github.io/csb-tq2lsp/static/js/runtime-main.2a74b01e.js",
+    "runtime-main.js.map": "https://john3195.github.io/csb-tq2lsp/static/js/runtime-main.2a74b01e.js.map",
+    "static/js/2.15dc15a2.chunk.js": "https://john3195.github.io/csb-tq2lsp/static/js/2.15dc15a2.chunk.js",
+    "static/js/2.15dc15a2.chunk.js.map": "https://john3195.github.io/csb-tq2lsp/static/js/2.15dc15a2.chunk.js.map",
+    "index.html": "https://john3195.github.io/csb-tq2lsp/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://john3195.github.io/csb-tq2lsp/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.15dc15a2.chunk.js.LICENSE.txt": "https://john3195.github.io/csb-tq2lsp/static/js/2.15dc15a2.chunk.js.LICENSE.txt",
+    "static/media/C.ac1561a3.jpg": "https://john3195.github.io/csb-tq2lsp/static/media/C.ac1561a3.jpg",
+    "static/media/Fotolia_144834045_Subscription_Monthly_M.5e94dc09.jpg": "https://john3195.github.io/csb-tq2lsp/static/media/Fotolia_144834045_Subscription_Monthly_M.5e94dc09.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f64c36d4.js",
-    "static/js/2.ca3c7d5e.chunk.js",
+    "static/js/runtime-main.2a74b01e.js",
+    "static/js/2.15dc15a2.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.18b66ebe.chunk.js"
+    "static/js/main.3f8b8908.chunk.js"
   ]
 }
